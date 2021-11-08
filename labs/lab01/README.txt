@@ -1,0 +1,1 @@
+Skrypt histo.py można przetestować np. z dwoma przykładowymi plikami txt, które są umieszczone w tym katalogu.
