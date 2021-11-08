@@ -1,1 +1,1 @@
-Rozwiązania zadań z poszczególnych zajęć są w katalogu labs.
+Rozwiązania zadań z poszczególnych zajęć są w katalogu *labs*.
