@@ -1,0 +1,1 @@
+Skrypt pobiera dane o polskich parkach narodowych ze strony https://zpppn.pl i zapisuje je w pliku JSON.

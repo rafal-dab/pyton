@@ -7,6 +7,9 @@ authors = ["Rafał Dąbrowski <73179688+rafal-dab@users.noreply.github.com>"]
 [tool.poetry.dependencies]
 python = "^3.9"
 ascii_graph = "^1.5.1"
+rich = "^10.13.0"
+requests = "^2.26.0"
+bs4 = "^0.0.1"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
