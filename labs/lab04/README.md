@@ -1,0 +1,1 @@
+Skrypt *chopin.py* pobiera nazwiska zwycięzców kolejnych konkursów chopinowskich ze strony https://chopin2020.pl i zapisuje je w pliku JSON. Niestety zwycięzca ostatniego konkursu z 2021 r. nie został jeszcze uwzględniony na tej stronie.
