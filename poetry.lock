@@ -122,6 +122,7 @@ tornado = ">=5.1"
 typing-extensions = ">=3.10.0"
 
 [[package]]
+<<<<<<< HEAD
 name = "brotli"
 version = "1.0.9"
 description = "Python bindings for the Brotli compression library"
@@ -130,6 +131,8 @@ optional = false
 python-versions = "*"
 
 [[package]]
+=======
+>>>>>>> 9a998d7b674d58947beb923fb0eeced0513085c2
 name = "bs4"
 version = "0.0.1"
 description = "Dummy package for Beautiful Soup"
@@ -617,7 +620,11 @@ multidict = ">=4.0"
 [metadata]
 lock-version = "1.1"
 python-versions = ">=3.9,<3.10"
+<<<<<<< HEAD
 content-hash = "d5ecaef22c5720e71fe5e5ef6ab2a1b2a35e0fff9965bc4a62a289135200b257"
+=======
+content-hash = "c42affd3a29e467053b64d5296bdbd7727b06a70ac1bc9165de497a8324ca13e"
+>>>>>>> 9a998d7b674d58947beb923fb0eeced0513085c2
 
 [metadata.files]
 aiodns = [
@@ -729,6 +736,7 @@ bokeh = [
     {file = "bokeh-2.4.2-py3-none-any.whl", hash = "sha256:2a842d717feeee802e668054277c09054b6f1561557a16dddaf5f7c452f2728c"},
     {file = "bokeh-2.4.2.tar.gz", hash = "sha256:f0a4b53364ed3b7eb936c5cb1a4f4132369e394c7ae0a8ef420459410958033d"},
 ]
+<<<<<<< HEAD
 brotli = [
     {file = "Brotli-1.0.9-cp27-cp27m-macosx_10_9_x86_64.whl", hash = "sha256:268fe94547ba25b58ebc724680609c8ee3e5a843202e9a381f6f9c5e8bdb5c70"},
     {file = "Brotli-1.0.9-cp27-cp27m-manylinux1_i686.whl", hash = "sha256:c2415d9d082152460f2bd4e382a1e85aed233abc92db5a3880da2257dc7daf7b"},
@@ -778,6 +786,8 @@ brotli = [
     {file = "Brotli-1.0.9-pp37-pypy37_pp73-win_amd64.whl", hash = "sha256:76ffebb907bec09ff511bb3acc077695e2c32bc2142819491579a695f77ffd4d"},
     {file = "Brotli-1.0.9.zip", hash = "sha256:4d1b810aa0ed773f81dceda2cc7b403d01057458730e309856356d4ef4188438"},
 ]
+=======
+>>>>>>> 9a998d7b674d58947beb923fb0eeced0513085c2
 bs4 = [
     {file = "bs4-0.0.1.tar.gz", hash = "sha256:36ecea1fd7cc5c0c6e4a1ff075df26d50da647b75376626cc186e2212886dd3a"},
 ]
