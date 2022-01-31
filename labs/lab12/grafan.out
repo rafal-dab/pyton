@@ -1,0 +1,58 @@
+Wczytano sieć z pliku 'CA-GrQc.txt'
+
+Liczba wierzchołków: 5242
+Liczba krawędzi: 14496
+Najwyższy stopień wierzchołka: 81
+Najniższy stopień wierzchołka: 1
+Liczba spójnych składowych: 355
+
+Analiza składowych:
+Liczba wierzchołków | Ilość składowych
+--------------------+-----------------
+                  1 |                1
+                  2 |              177
+                  3 |               98
+                  4 |               30
+                  5 |               17
+                  6 |               12
+                  7 |                8
+                  8 |                6
+                  9 |                2
+                 10 |                1
+                 12 |                1
+                 14 |                1
+               4158 |                1
+
+Analiza średnich najkrótszych ścieżek:
+Długość ścieżki | Ilość składowych
+----------------+-----------------
+         0.0000 |                1
+         1.0000 |              256
+         1.1429 |                1
+         1.1667 |                1
+         1.2667 |                2
+         1.3000 |                3
+         1.3333 |               49
+         1.3571 |                1
+         1.4000 |                6
+         1.4286 |                1
+         1.4722 |                1
+         1.5000 |               11
+         1.5238 |                2
+         1.5333 |                2
+         1.5357 |                1
+         1.6000 |                1
+         1.6071 |                1
+         1.6667 |                4
+         1.7000 |                1
+         1.7857 |                1
+         1.8095 |                1
+         1.8462 |                1
+         1.8571 |                1
+         1.9048 |                1
+         2.0606 |                1
+         2.1333 |                2
+         2.2857 |                1
+         6.0494 |                1
+
+Średnia najkrótsza ścieżka we wszystkich składowych: 1.1333
